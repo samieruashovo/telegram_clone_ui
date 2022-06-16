@@ -1,13 +1,7 @@
 import 'package:telegram_clone_ui/model/message_model.dart';
 import 'package:telegram_clone_ui/model/user_model.dart';
 
-<<<<<<< HEAD
 final List<User> onlineUsers = [
-=======
-
-final List<User> onlineUsers = [
-
->>>>>>> a4d64a638ccfa8e841d5f3fa1a4c327745b3ac56
   User(
     name: 'David Brooks',
     imageUrl:
@@ -67,6 +61,7 @@ final List<User> onlineUsers = [
     imageUrl:
         'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80',
   ),
+  
   User(
     name: 'Matthew Hinkle',
     imageUrl:
